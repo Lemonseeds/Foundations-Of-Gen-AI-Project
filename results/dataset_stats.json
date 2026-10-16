@@ -1,0 +1,15 @@
+{
+  "characters (cleaned)": 373203,
+  "total tokens": 75278,
+  "word tokens": 60053,
+  "unique tokens (types)": 11200,
+  "vocab size (min_freq applied)": 4731,
+  "hapax legomena (freq=1)": 6471,
+  "<unk> rate after vocab cap": 0.086,
+  "dictionary entries (approx.)": 980,
+  "verse line breaks (<nl>)": 2146,
+  "paragraphs (<par>)": 1734,
+  "train sequences": 28627,
+  "val sequences": 5454,
+  "test sequences": 5399
+}

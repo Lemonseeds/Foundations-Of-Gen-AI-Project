@@ -1,0 +1,16 @@
+{
+  "seq_len": 20,
+  "train_stride": 2,
+  "emb_dim": 128,
+  "hidden": 256,
+  "layers": 2,
+  "dropout": 0.3,
+  "batch_size": 256,
+  "lr": 0.003,
+  "weight_decay": 0.0,
+  "clip": 1.0,
+  "max_epochs": 15,
+  "patience": 3,
+  "seed": 42,
+  "threads": 6
+}
