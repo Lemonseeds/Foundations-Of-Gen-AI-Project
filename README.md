@@ -1,7 +1,8 @@
 # Comparative Autoregressive Text Generation using Recurrent Neural Architectures
 
 **Foundations of Generative AI (ICT4403) — Assignment 2**  
-*Autoregressive Next-Word Prediction & Sequential Generation on Ambrose Bierce's "The Devil's Dictionary"*
+*Autoregressive Next-Word Prediction & Sequential Generation on Ambrose Bierce's "The Devil's Dictionary"*  
+📄 **[Download / View Full PDF Submission Report](AyrtonJosephPulikottil_230953448_FGAI_Assignment2.pdf)**
 
 ---
 
